@@ -111,18 +111,6 @@ nav ul li a:hover {
     padding-top: 80px;
 }
 
-.hero {
-    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('../png/img8.jpg') !important;
-    background-size: cover !important;
-    background-position: center !important;
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    color: white;
-    padding-top: 80px;
-}
-
 .hero-text h2 {
     font-size: 3rem;
     margin-bottom: 20px;
